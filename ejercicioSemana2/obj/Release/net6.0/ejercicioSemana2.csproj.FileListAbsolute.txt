@@ -1,0 +1,15 @@
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\bin\Release\net6.0\ejercicioSemana2.exe
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\bin\Release\net6.0\ejercicioSemana2.deps.json
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\bin\Release\net6.0\ejercicioSemana2.runtimeconfig.json
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\bin\Release\net6.0\ejercicioSemana2.dll
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\bin\Release\net6.0\ejercicioSemana2.pdb
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\obj\Release\net6.0\ejercicioSemana2.csproj.AssemblyReference.cache
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\obj\Release\net6.0\ejercicioSemana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\obj\Release\net6.0\ejercicioSemana2.AssemblyInfoInputs.cache
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\obj\Release\net6.0\ejercicioSemana2.AssemblyInfo.cs
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\obj\Release\net6.0\ejercicioSemana2.csproj.CoreCompileInputs.cache
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\obj\Release\net6.0\ejercicioSemana2.dll
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\obj\Release\net6.0\refint\ejercicioSemana2.dll
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\obj\Release\net6.0\ejercicioSemana2.pdb
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\obj\Release\net6.0\ejercicioSemana2.genruntimeconfig.cache
+C:\Users\Tinoc\Documents\Ceutec\Programacion Web\ejercicioSemana2\ejercicioSemana2\obj\Release\net6.0\ref\ejercicioSemana2.dll
