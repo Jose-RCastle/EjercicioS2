@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|c:\\users\\ororl\\onedrive\\documentos\\github\\ejercicios2\\ejerciciosemana2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|solutionrelative:ejerciciosemana2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|c:\\users\\ororl\\onedrive\\documentos\\github\\ejercicios2\\ejerciciosemana2\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|solutionrelative:ejerciciosemana2\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|c:\\users\\ororl\\onedrive\\documentos\\github\\ejercicios2\\ejerciciosemana2\\ejerciciosemana2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|solutionrelative:ejerciciosemana2\\ejerciciosemana2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|c:\\users\\ororl\\onedrive\\documentos\\github\\ejercicios2\\ejerciciosemana2\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|solutionrelative:ejerciciosemana2\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|c:\\users\\ororl\\onedrive\\documentos\\github\\ejercicios2\\ejerciciosemana2\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|solutionrelative:ejerciciosemana2\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|c:\\users\\ororl\\onedrive\\documentos\\github\\ejercicios2\\ejerciciosemana2\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DCA701-B72C-43A1-A2DE-00296159C00C}|ejercicioSemana2\\ejercicioSemana2.csproj|solutionrelative:ejerciciosemana2\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ejercicioSemana2.csproj",
+              "DocumentMoniker": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\ejercicioSemana2.csproj",
+              "RelativeDocumentMoniker": "ejercicioSemana2\\ejercicioSemana2.csproj",
+              "ToolTip": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\ejercicioSemana2.csproj",
+              "RelativeToolTip": "ejercicioSemana2\\ejercicioSemana2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T02:48:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicioSemana2\\Program.cs",
+              "ToolTip": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\Program.cs",
+              "RelativeToolTip": "ejercicioSemana2\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T02:17:59.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversidadContext.cs",
+              "DocumentMoniker": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\UniversidadContext.cs",
+              "RelativeDocumentMoniker": "ejercicioSemana2\\UniversidadContext.cs",
+              "ToolTip": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\UniversidadContext.cs",
+              "RelativeToolTip": "ejercicioSemana2\\UniversidadContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T02:17:59.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\Curso.cs",
+              "RelativeDocumentMoniker": "ejercicioSemana2\\Curso.cs",
+              "ToolTip": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\Curso.cs",
+              "RelativeToolTip": "ejercicioSemana2\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T02:17:59.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\Profesor.cs",
+              "RelativeDocumentMoniker": "ejercicioSemana2\\Profesor.cs",
+              "ToolTip": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\Profesor.cs",
+              "RelativeToolTip": "ejercicioSemana2\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T02:17:59.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ejercicioSemana2\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\ororl\\OneDrive\\Documentos\\GitHub\\EjercicioS2\\ejercicioSemana2\\Estudiante.cs",
+              "RelativeToolTip": "ejercicioSemana2\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T02:17:59.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
